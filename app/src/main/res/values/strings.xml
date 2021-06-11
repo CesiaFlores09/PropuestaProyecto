@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PropuestaProyecto</string>
+    <string name="bienve">BIENVENIDOS</string>
+    <string name="Codigo">Codigo</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Marca">Marca</string>
+    <string name="Precio">Precio</string>
+    <string name="Salir">Salir</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Acerca">ACERCA DE</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Buscar">Buscar Producto</string>
+    <string name="det">La aplicación consta de una pantalla principal que tiene objetivo darle inicio a la aplicación, seguidamente nos mostrara una pantalla donde se podrán ingresar los datos específicos  del producto.</string>
+    <string name="inte">INTEGRANTES</string>
+    <string name="integrantes">Marvin Josue Solorzano Cruz, Jose Antonio Chavez Martinez, Kevin Anthony Ortega Ortiz, Jose Roberto Flores Flores, Eduardo Alexis Reyes Zavala, Carlos Jose Diaz Martinez, Cesia Elizabeth Flores Orellana.</string>
+</resources>
